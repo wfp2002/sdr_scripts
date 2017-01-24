@@ -1,0 +1,1 @@
+Ligar um cabo de 20cm ao pino 4 da parte de dentro do raspberry

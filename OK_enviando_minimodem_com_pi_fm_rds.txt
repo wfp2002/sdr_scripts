@@ -1,0 +1,1 @@
+while true; do echo -e "mensagem" | minimodem -t rtty -f /tmp/out.wav && sudo ./pi_fm_rds -freq 100.6 -audio /tmp/out.wav; sleep 10; done

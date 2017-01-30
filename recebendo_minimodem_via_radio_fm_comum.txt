@@ -1,0 +1,1 @@
+sudo arecord -f S16_LE -r 48000 - | minimodem -r rtty -R 48000 -f -
